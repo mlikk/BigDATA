@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <color name="button_focused_color_start">#7FA40E</color> 
+  <color name="button_focused_color_end">#79C83F</color> 
+  <color name="button_normal_color_start">#1f71df</color> 
+  <color name="button_normal_color_end">#619be9</color> 
+  <color name="button_pressed_color_start">#7FA40E</color> 
+  <color name="button_pressed_color_end">#79C83F</color> 
+  <color name="button_wrong_answer_pressed_start">#FF4500</color>
+  <color name="button_wrong_answer_pressed_end">#FF0000</color>
+  <color name="White">#FFFFFF</color> 
+  <color name="Border">#FFFAFA</color>
+  <color name="Number_right_green">#379C35</color>
+  <color name="Number_wrong_red">#C34724</color>
+  <color name="black">#000000</color>
+  <color name="green">#008000</color>
+  <color name="lawngreen">#7CFC00</color>
+  <color name="deepskyblue">#00BFFF</color>
+  <color name="lightblue">#ADD8E6</color>
+
+  <color name="textgray">#A89D8E</color>
+  <color name="graytable">#BAAC9F</color>
+<color name="graytv">#CCC0B1</color>
+<color name="back2">#ECE4DA</color>
+<color name="back4">#ECE4DA</color>
+
+
+</resources>
+

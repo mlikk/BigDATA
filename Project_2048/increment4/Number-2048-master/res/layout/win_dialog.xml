@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#90FFFFFF"
+    android:gravity="center_horizontal" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/win_score"
+        android:gravity="center"
+        android:text="@string/you_win"
+        android:textColor="@color/textgray"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+    
+     <TextView
+        android:id="@+id/win_score"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/go_on_button"
+        android:gravity="center"
+        android:text=""
+        android:textColor="@color/textgray"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/go_on_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="105dp"
+        android:layout_marginTop="10dp"
+        android:background="#00FFFFFF"
+        android:text="@string/go_on"
+        android:textColor="@color/textgray"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>
