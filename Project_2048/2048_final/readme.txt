@@ -1,5 +1,6 @@
 CD_Contents
 
+-Project_title.doc
 -TrainingApp.zip. (SensorTest project to collect the data required for training)
 -Data(sequence files) collected in order to do the training. (fly.seq, left.seq, right.seq, stomp.seq)
 -2048_Project.zip. (2048 game app)
